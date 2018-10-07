@@ -1,0 +1,19 @@
+Component ID    Part Type								Description
+
+BAT1............CR2032 Battery Clip..... Metal clip with tabs, fits a CR2032 coin cell battery
+C1..............100 nF Capacitor........ Small rounded packet with two wires
+D1..............Diode................... Small glass cylinder with two leads at each end, red at one end
+LED1............Green LED............... Transparent cylinder with two leads on the bottom
+U1..............Low-Power Op-Amp IC..... Black rectangular chip with eight leads
+U2..............Low-Power Op-Amp IC..... Black rectangular chip with eight leads
+R1..............10 MΩ Resistor.......... Brown Black Blue Gold
+R2..............10 MΩ Resistor.......... Brown Black Blue Gold
+R3..............10 MΩ Resistor.......... Brown Black Blue Gold
+R4..............10 MΩ Resistor.......... Brown Black Blue Gold
+R5..............10 MΩ Resistor.......... Brown Black Blue Gold
+R6..............10 MΩ Resistor.......... Brown Black Blue Gold
+R7..............10 MΩ Resistor.......... Brown Black Blue Gold
+R8..............3 MΩ Resistor........... Orange Black Green Gold
+R9..............100kΩ Resistor.......... Black Brown Yellow Gold
+R10.............1 kΩ Resistor........... Black Brown Red Gold
+
